@@ -10,7 +10,7 @@ Design: [Serlokas](https://cdn.discordapp.com/attachments/648536139677958156/648
 ## Project features
 
 - HTML
--CSS
+- CSS
 
 ## Authors
 
